@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "destination": "Maui, Hawaii",
+      "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM8xY67ItwoprsRxl6P_XG0goe_ZnbHv8_kg&usqp=CAU"
+    },
+    {
+        "id": 2,
+        "destination": "Delhi, India",
+        "imageURL" : "https://cdn.britannica.com/37/189837-050-F0AF383E/New-Delhi-India-War-Memorial-arch-Sir.jpg"
+     },
+      {
+        "id": 3,
+        "destination": "Nueschwnstein Castle, Germany",
+        "imageURL" : "https://www.travelandleisure.com/thmb/umcoSMJygYyG5OIYDdBPgnrJGLc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/01-neuschwanstein-castle-bavaria-NEUSCHWANSTEIN0417-273a040698f24fc1ac22e717bb3f1f0c.jpg"
+      },
+      {
+        "id": 4,
+        "destination": "Jotenheim, Norway",
+        "imageURL" : "https://i1.wp.com/jotunheimen.com/wp-content/uploads/2019/11/Besseggen-Norway-5-1140624-Foto_Chris_Arnesen.jpg?fit=1024%2C680&ssl=1"
+      },
+      {
+        "id": 5,
+        "destination": "Maui, Hawaii",
+        "imageURL" : "https://www.washingtonian.com/wp-content/uploads/2020/07/Official-White-House-Photo-by-Andrea-Hanks-1.jpg"
+      }
+  ]
