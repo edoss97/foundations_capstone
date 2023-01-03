@@ -4,33 +4,37 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
+    <style> 
+   
+    </style>
     <title>My travel List</title>
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="/css">
 </head>
 <body>
     <header>
         <h1>My Travel List</h1>
     </header>
+    <h2>Where I've Been</h2>
+    <section id="destination-holder"></section>
     <main>
-
+    
     <form>
         <input 
             type='text'
             id="destination"
             placeholder="Where to visit?"/>
-
         <input 
             type='text'
             id="img"
             placeholder='Paste an image URL'/>
-        <button>add to wishlist</button>
+        <button id="submit">Add to Wishlist</button>
     </form>
-
-
-    <section id="destination-holder"></section>
 </main>
+<h2>Travel Wishlist</h2>
+<section id="wish-holder"></section>
 
-<script src="main.js"></script>
+
+<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+<script src="/js"></script>
 </body>
 </html>
